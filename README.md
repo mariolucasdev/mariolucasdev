@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Mario Lucas, but you can just call me Mário 👋
 
 <!--
 **mariolucasdev/mariolucasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
