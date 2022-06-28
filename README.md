@@ -1,11 +1,19 @@
 ### Hi my name is Mario Lucas, but you can just call me Mário 👋
 
+<div>
+<a href="https://github.com/mariolucasdev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?mariolucasdev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?mariolucasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ### About me
 My name is Mário Lucas, I am a father, husband
 and developer.
 I started a little over 4 years ago, I'm currently studying Data Science in college. I'm interested in basketball, break, books on mindset and productivity.
 
 I have been working on some personal projects. I am an entrepreneur, creator of a graphic design agency and I teach web development at a free cost through SENAC.
+
+![Snake animation](https://github.com/mariolucasdev/mariolucasdev/blob/output/github-contribution-grid-snake.svg)
 
 ### Tools and technologies
 
