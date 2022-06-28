@@ -6,15 +6,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariolucasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### About me
-My name is Mário Lucas, I am a father, husband
-and developer.
-I started a little over 4 years ago, I'm currently studying Data Science in college. I'm interested in basketball, break, books on mindset and productivity.
-
-I have been working on some personal projects. I am an entrepreneur, creator of a graphic design agency and I teach web development at a free cost through SENAC.
-
-![Snake animation](https://github.com/mariolucasdev/mariolucasdev/blob/output/github-contribution-grid-snake.svg)
-
 ### Tools and technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
