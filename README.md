@@ -18,6 +18,6 @@
 <code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code><br>
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenasc&layout=compact&langs_count=6&theme=dracula" height="180em" alt="Status"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=henriquenasc&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180em" alt="Status"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariolucasdev&layout=compact&langs_count=6&theme=dracula" height="180em" alt="Status"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=mariolucasdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180em" alt="Status"/>
 </div>
