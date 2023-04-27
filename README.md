@@ -5,8 +5,8 @@
 [![Twitter badge](https://img.shields.io/badge/twitter-white?logo=twitter&style=for-the-badge&logoColor=blue)](https://twitter.com/mariolucasdev)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
 
-- ⚡ Currently improving: **_PHP, JavaScript, SQL, MySQL, Codeigniter 3 and 4, Git, GitHub Actions and Scrum Agile_**
-- 📚 Currently learning: **_Python, Software Engineering_**
+- ⚡ Improving: **_PHP, JavaScript, SQL, MySQL, Codeigniter 3 and 4, Git, GitHub Actions and Scrum Agile_**
+- 📚 Learning: **_Python, Software Engineering_**
 
 ### Main Skills:
 
