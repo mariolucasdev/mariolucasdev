@@ -6,7 +6,7 @@
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
 
 - ⚡ Improving: **_PHP,  Codeigniter 3 and 4, Laravel, PHPUnit, JavaScript, SQL, MySQL, Git, GitHub Actions and Scrum Agile_**
-- 📚 Learning: **_Python, Software Engineering, Docker, NextJS_**
+- 📚 Learning: **_Python on the software engineering college and VueJS_**
 
 ### Main Skills:
 
