@@ -10,13 +10,14 @@
 
 ### Main Skills:
 
-<code><img title="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/></code>
-<code><img title="CodeIgniter 4" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg"/></code>
-<code><img title="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/></code>
-<code><img title="Composer" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/></code>
-<code><img title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
-<code><img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
-<code><img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></code>
-<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+<code><img title="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/></code>
+<code><img title="CodeIgniter 4" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"/></code>
+<code><img title="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
+<code><img title="Composer" width="26px" src="https://cdn.worldvectorlogo.com/logos/composer.svg"/></code>
+<code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
+<code><img title="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></code>
+<code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
+<code><img title="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/></code>
 <code><img title="Vue JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558"/></code>
-<code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code><br>
+<code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
+<code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
