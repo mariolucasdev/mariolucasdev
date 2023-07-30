@@ -22,3 +22,5 @@
 <code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
 <code><img title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/></code>
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
+
+<img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
