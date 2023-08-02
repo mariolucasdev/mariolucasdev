@@ -23,4 +23,32 @@
 <code><img title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/></code>
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
 
+### Improving
+- Vue JS, Laravel, TDD, Docker and CI.
+
+### Skills to acquire/improve by the end of the year
+ - Tests E2E
+ - CD
+ - Kubernetes
+ - Redis
+ - AWS
+
+### Books I read this year
+- 📚 Hábitos do Milionários - Napolleon Hill
+- 📚 O Poder Criativo de Deus para Finanças - Charlles Capps
+- 📚 Como Ser Dirigido pelo Espírito de Deus - Keneth Haggin
+- 📚 Hábitos Atômicos - James Clear
+- 📚 A Startup Enxuta - Eric Ries
+
+### Reading
+- 📚 Essencialismo - Greg McKeown
+
+### I intend to read this year
+- 📚 14 Hábitos de Desenvolvedores Altamente Produtivos - Zeno Rocha
+- 📚 Código Limpo - Robert C. Martin
+- 📚 Arquitetura Limpa - Robert C. Martin
+- 📚 Scrum - A Arte de Fazer o Dobro do Trabalho com a Metade do Tempo - Jeff Sutherland
+- 📚 O Poder do Hábito - Charles Duhigg
+- 📚 Mindeset - Carol S. Dweck
+
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
