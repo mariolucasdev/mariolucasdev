@@ -47,8 +47,6 @@
 
 ### I intend to read this year
 - 📚 Código Limpo - Robert C. Martin
-- 📚 14 Hábitos de Desenvolvedores Altamente Produtivos - Zeno Rocha
-- 📚 Arquitetura Limpa - Robert C. Martin
 - 📚 O Poder do Hábito - Charles Duhigg
 - 📚 Mindeset - Carol S. Dweck
 
