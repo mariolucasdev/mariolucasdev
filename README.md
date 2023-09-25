@@ -34,7 +34,7 @@
  - AWS
 
 ### Books I read this year
-- 📚 Hábitos do Milionários - Napolleon Hill
+- 📚 Hábitos dos Milionários - Napolleon Hill
 - 📚 O Poder Criativo de Deus para Finanças - Charlles Capps
 - 📚 Como Ser Dirigido pelo Espírito de Deus - Keneth Haggin
 - 📚 Hábitos Atômicos - James Clear
