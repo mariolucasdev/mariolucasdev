@@ -1,7 +1,7 @@
 # Mário Lucas
 ### ~ If you can dream it, you can do it 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mário-lucas-65b369106/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mariolucasdev/)
 [![Twitter badge](https://img.shields.io/badge/twitter-white?logo=twitter&style=for-the-badge&logoColor=blue)](https://twitter.com/mariolucasdev)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
 
@@ -43,10 +43,10 @@
 
 ### Reading
 - 📚 Scrum - A Arte de Fazer o Dobro do Trabalho com a Metade do Tempo - Jeff Sutherland
+- 📚 Código Limpo - Robert C. Martin
 - 📚 O Livro de Ouro da Mitologia - Thomas Bulfinch
 
 ### I intend to read this year
-- 📚 Código Limpo - Robert C. Martin
 - 📚 O Poder do Hábito - Charles Duhigg
 - 📚 Mindeset - Carol S. Dweck
 
