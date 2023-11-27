@@ -36,6 +36,5 @@
 ### Lendo
 - 📚 Scrum - A Arte de Fazer o Dobro do Trabalho com a Metade do Tempo - Jeff Sutherland
 - 📚 Código Limpo - Robert C. Martin
-- 📚 O Livro de Ouro da Mitologia - Thomas Bulfinch
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
