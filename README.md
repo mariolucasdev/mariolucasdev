@@ -4,10 +4,9 @@
 ### ~ Se você pode sonhar, então pode realizar. 🐭
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mariolucasdev/)
-[![Twitter badge](https://img.shields.io/badge/twitter-white?logo=twitter&style=for-the-badge&logoColor=blue)](https://twitter.com/mariolucasdev)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
 
-- ⚡ Evoluindo: **_PHP,  Codeigniter 3 and 4, Laravel, PHPUnit, JavaScript, SQL, MySQL, Git, GitHub Actions and Scrum Agile_**
+- ⚡ Evoluindo: **_PHP, Codeigniter 3 and 4, Laravel, PHPUnit, JavaScript, NodeJS, SQL, MySQL, Git, GitHub Actions and Scrum Agile_**
 - 📚 Estudando: **_Faculdade de Engenharia de Software e Formação Arquiteto de Software da Full Cycle._**
 
 ### Main Skills:
