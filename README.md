@@ -24,16 +24,7 @@
 <code><img title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/></code>
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
 
-### Leituras do Ano
-- 📚 Hábitos dos Milionários - Napolleon Hill
-- 📚 O Poder Criativo de Deus para Finanças - Charlles Capps
-- 📚 Como Ser Dirigido pelo Espírito de Deus - Keneth Haggin
-- 📚 Hábitos Atômicos - James Clear
-- 📚 A Startup Enxuta - Eric Ries
-- 📚 Essencialismo - Greg McKeown
-
 ### Lendo
-- 📚 Scrum - A Arte de Fazer o Dobro do Trabalho com a Metade do Tempo - Jeff Sutherland
-- 📚 Código Limpo - Robert C. Martin
+- 📚 O Poder do Hábito - Charles Duhigg
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
