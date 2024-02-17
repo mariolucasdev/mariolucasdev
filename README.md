@@ -7,7 +7,7 @@
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
 
 - ⚡ Evoluindo: **_PHP, Codeigniter 3 and 4, Laravel, PHPUnit, JavaScript, NodeJS, SQL, MySQL, Git, GitHub Actions and Scrum Agile_**
-- 📚 Estudando: **_Faculdade de Engenharia de Software e Formação Arquiteto de Software da Full Cycle._**
+- 📚 **_Estudante de Engenharia de Software 3º perído._**
 
 ### Main Skills:
 
