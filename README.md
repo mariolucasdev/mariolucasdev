@@ -25,6 +25,6 @@
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
 
 ### Lendo
-- 📚 O Poder do Hábito - Charles Duhigg
+- 📚 SCRUM A arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland e J.J. Sutherland
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
