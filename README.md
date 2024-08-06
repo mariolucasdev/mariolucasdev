@@ -24,7 +24,10 @@
 <code><img title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/></code>
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
 
-### Lendo
+### Lidos em 2024
 - 📚 SCRUM A arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland e J.J. Sutherland
+
+### Lendo em 2024
+- 📚 Código Limpo - Robert C. Martin
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
