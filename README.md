@@ -6,12 +6,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mariolucasdev/)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
 
-- ⚡ Evoluindo: **_PHP, Codeigniter 3 and 4, Laravel, PHPUnit, JavaScript, NodeJS, SQL, MySQL, Git, GitHub Actions and Scrum Agile_**
-- 📚 **_Estudante de Engenharia de Software 4º perído._**
+- ⚡ Evoluindo: **_PHP, Codeigniter 3 and 4, Laravel, PHPUnit, Pest, JavaScript, NodeJS, SQL, MySQL, Gestão de Projetos, Git, GitHub Actions and Scrum Agile_**
+- 📚 **_Estudante de Engenharia de Software 5º perído._**
 
 ### Main Skills:
 
-<code><img title="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/></code>
+<code><img title="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php.svg"/></code>
 <code><img title="CodeIgniter 4" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"/></code>
 <code><img title="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
 <code><img title="Composer" width="26px" src="https://cdn.worldvectorlogo.com/logos/composer.svg"/></code>
