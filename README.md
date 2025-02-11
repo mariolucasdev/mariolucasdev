@@ -26,8 +26,9 @@
 
 ### Lidos em 2024
 - 📚 SCRUM A arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland e J.J. Sutherland
-
-### Lendo em 2024
 - 📚 Código Limpo - Robert C. Martin
+
+### Lendo em 2025
+- 📚 Fundamentos da Arquitetura de Software - Mark Richards e Neal Ford
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
