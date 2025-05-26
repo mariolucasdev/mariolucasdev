@@ -19,5 +19,6 @@
 
 ### Lendo em 2025
 - 📚 Fundamentos da Arquitetura de Software - Mark Richards e Neal Ford
+- 📚 Psicologia Financeira - Morgan Housel
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
