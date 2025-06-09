@@ -1,7 +1,5 @@
 # Mário Lucas
-💻 Desenvolvedor de Software e Arquiteto de Software em formação.
-
-### ~ Se você pode sonhar, então pode realizar. 🐭
+💻 Engenheiro de Software
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mariolucasdev/)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:mariolucasdev@gmail.com)
